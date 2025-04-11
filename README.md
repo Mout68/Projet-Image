@@ -14,4 +14,5 @@ Dépendances
 Si vous ne les avez pas encore, installez-les avec les commandes suivantes :
 
 pip install opencv-python
+
 pip install ttkbootstrap
